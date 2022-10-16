@@ -1,0 +1,74 @@
+.testimonials{
+    padding-bottom: 128px;
+    text-align: center;
+}
+.testimonials__text{
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: rgba(51, 51, 51, 0.49833);
+
+}
+.testimonials__title{
+    margin: 35px 0 65px 0;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: -12px;
+    color: #333333;
+    font-family: 'Lexend Zetta';
+
+}
+.testimonials__chat-wrapper{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 36px;
+    text-align: start;
+}
+.testimonials__chat{
+    position: relative;
+}
+.testimonials__chat-shape{
+    position: absolute;
+    top: -18px;
+    left: 48px;
+}
+.testimonials__chat-text{
+    padding: 58px 48px 40px 48px;
+    font-size: 16px;
+    line-height: 32px;
+    background-color: #F5F6F8;
+    color: rgba(51, 51, 51, 0.496405);
+
+}
+.testimonials__chat-b{
+    width: 32px;
+    height: 32px;
+    display: block;
+    clip-path: polygon(0 0, 0% 100%, 100% 1%);
+    background-color: #F5F6F8;
+}
+.testimonials__chat__avatar{
+    margin-top: 18px;
+    align-items: center;
+}
+.avatar-text-wrapper{
+    margin-left: 24px;
+}
+.avatar-name{
+    margin-bottom: 7px;
+    font-size: 20px;
+    line-height: 32px;
+    color: #333333;
+}
+.avatar-p{
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(51, 51, 51, 0.496405);
+}
+.testimonials__dot-wrapper{
+    margin-top: 96px;
+}
+.testimonials__dot:nth-child(2){
+    margin:0 16px 0 16px ;
+}

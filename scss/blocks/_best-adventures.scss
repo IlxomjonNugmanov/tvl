@@ -1,0 +1,67 @@
+.best-adventures__wrapper{
+    padding-top: 74px;
+    padding-bottom: 192px;
+    text-align: center;
+}
+.b-a__text{
+    text-align: start;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: rgba(51, 51, 51, 0.49833);
+}
+.b-a__title{
+    margin: 33px 0 70px 0;
+    text-align: start;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: -12px;
+    color: #333333;
+    font-family: 'Lexend Zetta';
+}
+.b-a__cardd-wrapper{
+    margin-bottom: 66px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 30px;
+}
+.b-a__card{
+    background-color: #FFF2F2;
+}
+.b-a__card-title{
+    padding: 24px 0 0 32px;
+    font-size: 20px;
+    line-height: 32px;
+    color: #333333;
+}
+.b-a__card-data{
+    margin: 7px 0 18px 0;
+    padding-left: 32px;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(51, 51, 51, 0.496405);
+
+}
+.b-a__card-money{
+    margin-bottom: 23px;
+    padding-left: 32px;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: -8px;
+    color: #333333;
+    font-family: 'Lexend Zetta';
+
+}
+.b-a__link{
+    text-align: center;
+    margin: 0 auto;
+    padding: 14px 35px;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -3px;
+    text-transform: uppercase;
+    color: #F07C52;
+    font-family: 'Lexend Zetta';
+    border: 1px solid rgba(240, 124, 82, 0.503227);
+}

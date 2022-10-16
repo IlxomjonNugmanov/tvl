@@ -1,0 +1,56 @@
+.hero-section{
+    background-color: #6347F9;
+}
+.hero{
+    text-align: center;
+    position: relative;
+}
+.hero__text{
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.hero__title{
+    padding-bottom: 307px;
+    font-size: 72px;
+    line-height: 80px;
+    letter-spacing: -14px;
+    color: #FFFFFF;
+    font-family: 'Lexend Zetta', sans-serif;
+
+}
+.hero__card__wrapper{
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    bottom: -250px;
+}
+.hero__card{
+    text-align: start;
+}
+.hero__card--text{
+    font-size: 16px;
+    line-height: 32px;
+    color: #333333;
+
+}
+.hero__card--text2{
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(51, 51, 51, 0.496405);
+}
+
+
+// @media screen  and (max-width:1320px){
+//     .hero__card__wrapper{
+//        display: flex;
+//        flex-wrap: wrap;
+//        bottom: -350px;
+//     }
+// }

@@ -1,0 +1,114 @@
+.our__section{
+    background-color: #18243c;
+}
+.our__top-wrapper{
+    margin-bottom: 69px;
+    padding-top: 74px;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.our__text{
+    margin-bottom: 33px;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.500821);
+    
+}
+.our__title{
+    width: 477px;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: -12px;
+    color: #FFFFFF;
+    font-family: 'Lexend Zetta';
+}
+.our__link{
+    padding: 14px 35px;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -3px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: 1px solid rgba(255, 255, 255, 0.295743);
+    font-family: 'Lexend Zetta';
+
+}
+.our__card-wrapper{
+    margin-bottom: 89px;
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 30px;
+}
+.our__card{
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #FFFFFF;
+}
+.our__card__text-wrapper{
+    padding: 26px  48px 0 48px;
+
+}
+.our__card-data{
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: rgba(51, 51, 51, 0.49833);
+}
+.our__card-title{
+    width: 370px;
+    margin: 13px 0  19px  0;
+    font-size: 24px;
+    line-height: 32px;
+    color: #333333;
+}
+.our__card-name{
+    font-size: 16px;
+    line-height: 32px;
+    color: rgba(51, 51, 51, 0.496405);
+}
+.our__botm{
+    padding-bottom: 86px;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px  solid rgba(255, 255, 255, 0.295743);
+}
+.botm__textWrapper__title{
+    font-family: 'Lexend Zetta';
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: -8px;
+    color: #FFFFFF;
+}
+.botm__textWrapper-text{
+    font-size: 16px;
+    line-height: 32px;
+    color: rgba(255, 255, 255, 0.502972);
+
+}
+.our__botm__form-inptext{
+   width: 270px;
+}
+.our__botm__form-inptext::placeholder{
+    padding-left: 16px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    line-height: 32px;
+    color: rgba(51, 51, 51, 0.496405);
+
+}
+.our__botm__form-btn{
+    margin-left: 30px;
+    padding: 14px 27px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: -3px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #52AA7F;
+    border: none;
+    font-family: 'Lexend Zetta';
+}

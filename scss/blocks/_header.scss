@@ -1,0 +1,36 @@
+.site-header{
+    background: #6347F9;
+}
+.header{
+    padding: 25px 0 113px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__logo{
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: -8px;
+    color: #FFFFFF;
+}
+.header__iteam{
+    margin-right: 60px;
+}
+.header__link{
+    font-size: 16px;
+    line-height: 32px;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+}
+.header__link--btn{
+    margin-right: 0;
+    padding: 14px 21px;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -3px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    font-family: 'Lexend Zetta', sans-serif;
+
+}

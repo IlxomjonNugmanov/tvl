@@ -1,0 +1,66 @@
+.contact-section{
+    padding: 111px 0 160px 0;
+    background-color: #18243c;
+
+}
+.contact{
+     justify-content: space-between;
+}
+.contact__right-tetx{
+    width: 470px;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.500821);
+
+}
+.contact__right-title{
+    width: 470px;
+    margin: 33px 0 29px 0;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: -12px;
+    color: #FFFFFF;
+    font-family: 'Lexend Zetta';
+}
+.contact__right-text2{
+    width: 470px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+.contact__links {
+    margin: 30px 0 48px 0;
+    flex-direction: column;
+}
+.contact-link{
+    align-items: center;
+}
+
+.tel-nomber{
+    margin-left: 16px;
+    font-size: 24px;
+    line-height: 32px;
+    color: #FFFFFF;
+}
+.tg{
+    margin-top: 16px;
+}
+.tg-link{
+    margin-left: 16px;
+    font-size: 16px;
+    line-height: 32px;
+    color: rgba(255, 255, 255, 0.502972);
+}
+.contact__btn{
+    padding: 14px 24px;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -3px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #52AA7F;
+    font-family: 'Lexend Zetta';
+}
